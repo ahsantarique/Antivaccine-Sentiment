@@ -1,0 +1,14 @@
+Experiments:
+
+1. Dataset:
+	1.1 p2p-Gnutella
+
+
+
+
+
+
+
+Theory:
+
+1. Determining whether there exists a NE with exaclty K nodes in state 1 (anti-vaccine) is NP-Hard
