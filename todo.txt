@@ -1,14 +1,28 @@
 Experiments:
 
 1. Dataset:
-	1.1 p2p-Gnutella
+	1.1 p2p-Gnutella 04
+	1.2 p2p-Gnutella 24
+	1.3 email-EU-core
+	1.4 Twitter???????????????????????????????? ( Time limit exceeded)
 
 
-
-
+2. Simulation:
+	2.1 Computation limitations while running the simulation with a large number of triangles (> 10 million).
 
 
 
 Theory:
 
-1. Determining whether there exists a NE with exaclty K nodes in state 1 (anti-vaccine) is NP-Hard
+1. Parallel best response algorithm does not always give a NE
+
+2. Determining whether there exists a NE with exaclty K nodes in state 1 (anti-vaccine) is NP-Hard
+
+3. Create a timeline for this project
+
+4. Literature review????????????????????????????
+
+
+Paper:
+
+1. Restructuring the paper
