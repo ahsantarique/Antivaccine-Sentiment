@@ -1,4 +1,6 @@
 '''Utilities'''
+import matplotlib.pyplot as plt
+
 def plot(x, y, label, title, xlabel, ylabel, showplot = True):
     # plot
     lines = plt.plot(x, y, label=label)
