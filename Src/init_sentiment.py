@@ -1,5 +1,7 @@
+import numpy as np
+
+
 def random_get_init_sentiments(graph, PROB_ANTI):
-  random.seed(42)
 
   PROB_PRO = 1-PROB_ANTI
   initial_sentiments = np.random.choice(2, len(graph), p=[PROB_PRO, PROB_ANTI])
